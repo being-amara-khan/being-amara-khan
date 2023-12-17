@@ -1,4 +1,4 @@
-![LOGO](https://github.com/being-amara-khan/being-amara-khan/blob/main/Blue%20Modern%20Gradient%20Technology%20LinkedIn%20Banner.png)
+![LOGO](https://github.com/being-amara-khan/being-amara-khan/blob/main/Blue%20Grey%20Corporate%20Illustrated%20Collaboration%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Amara Khan</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
