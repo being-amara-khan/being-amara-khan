@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amara Khan</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdnl.iconscout.com%2Flottie%2Fpremium%2Fthumb%2Ffemale-web-developer-7362399-6031664.gif&tbnid=s91A6iFa6uY5iM&vet=12ahUKEwjD8LTVrZaDAxUZkycCHY3cCscQMygAegQIARBX..i&imgrefurl=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Ffemale-web-developer&docid=ZjWDDJ36-bSAdM&w=419&h=256&q=animated%20coding%20gif%20girl&ved=2ahUKEwjD8LTVrZaDAxUZkycCHY3cCscQMygAegQIARBX">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=being-amara-khan&label=Profile%20views&color=0e75b6&style=flat" alt="being-amara-khan" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
