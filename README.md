@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amara Khan</h1>
 <h3 align="center">A passionate Data Analyst</h3>
-<img align="right" alt="coding" width="400" src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fgeekculture%2Fwhy-should-a-cs-and-non-cs-student-practice-competitive-programming-9fa1451fcab3&psig=AOvVaw2cumg5ZB4iQ4yj1E30TnV6&ust=1702898572761000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjQkuKtloMDFQAAAAAdAAAAABAg" 
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fgeekculture%2Fwhy-should-a-cs-and-non-cs-student-practice-competitive-programming-9fa1451fcab3&psig=AOvVaw2cumg5ZB4iQ4yj1E30TnV6&ust=1702898572761000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjQkuKtloMDFQAAAAAdAAAAABAg" 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=being-amara-khan&label=Profile%20views&color=0e75b6&style=flat" alt="being-amara-khan" /> </p>
 
