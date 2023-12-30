@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amara Khan</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevforum.roblox.com%2Ft%2Fgame-design-theory-project-management-with-devops-analytics-and-pipelines-for-successful-games-and-productive-teams%2F568057&psig=AOvVaw3UMvfhKSU55Kg53FsY6fJN&ust=1704038804721000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjS5rDFt4MDFQAAAAAdAAAAABAK">
+<img align="right" alt="coding" width="400" src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/2/7/4/274d40f45b3f56a908c194f494eec2319ca3063b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=being-amara-khan&label=Profile%20views&color=0e75b6&style=flat" alt="being-amara-khan" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
