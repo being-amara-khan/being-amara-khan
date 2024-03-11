@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amara Khan</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-<img align="right" alt="coding" width="370" src="https://qph.cf2.quoracdn.net/main-qimg-48d6cd556bf52783f35b9ba748271a34">
+<img align="right" alt="coding" width="370" src="https://i.pinimg.com/originals/74/7b/a0/747ba0e42fb942131a5a40b79ac64e17.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=being-amara-khan&label=Profile%20views&color=0e75b6&style=flat" alt="being-amara-khan" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
