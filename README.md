@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amarakhanprofessional@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/amara-khan-a11699248](www.linkedin.com/in/amara-khan-a11699248)
+- 📄 Know about my experiences [https://www.linkedin.com/in/amara-khan-pro](https://www.linkedin.com/in/amara-khan-pro)
 
 - ⚡ Fun fact **I love book reading**
 
