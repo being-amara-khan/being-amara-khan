@@ -36,8 +36,10 @@
   <!-- DevOps & Infra -->
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
-  <a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/hashicorp_terraform/hashicorp_terraform-icon.svg" alt="terraform" width="40" height="40"/></a>
-  
+  <a href="https://www.terraform.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
+</a>
+
   <a href="https://airflow.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="apache-airflow" width="40" height="40"/></a>
 
   <!-- Cloud Platforms -->
