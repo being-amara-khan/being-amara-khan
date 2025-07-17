@@ -43,11 +43,7 @@
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://learn.microsoft.com/en-us/azure/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
 
-  <!-- AWS Services -->
-  <img src="https://www.vectorlogo.zone/logos/amazon_s3/amazon_s3-icon.svg" alt="aws s3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_ec2/amazon_ec2-icon.svg" alt="aws ec2" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_rds/amazon_rds-icon.svg" alt="aws rds" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg" alt="cloudwatch" width="40" height="40"/>
+ 
 
   <!-- AI & Data Engineering -->
   <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/></a>
